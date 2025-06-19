@@ -9,7 +9,7 @@ words_alpha_fr.txt has a lot of common english words (400k+)
 
 
 **100 PT WORD CRITERIA:**
-a is 1 pt
+a is 1 pt,
 b is 2 pts
 ...
 z is 26 pts
